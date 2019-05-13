@@ -1,13 +1,7 @@
-JavaScript Backend Hello World Demo
-===================================
+JavaScript Use "n" to Run Js with Specified Node Version Demo
+==============================================================
 
 ```
 npm install
 npm run demo
-```
-
-It will print:
-
-```
-Hello, Javascript
 ```

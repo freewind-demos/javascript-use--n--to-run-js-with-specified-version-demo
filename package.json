@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "demo": "node hello.js"
+    "demo": "n use 8.2.1 hello.js"
   },
-  "dependencies": {
-    "lodash": "^4.17.10"
+  "devDependencies": {
+    "n": "4.1.0"
   }
 }

@@ -1,3 +1,3 @@
-const _ = require('lodash')
+const nodeVersion = process.version;
 
-console.log('Hello, ' + _.capitalize('javascript'))
+console.log('Current Node version: ' + nodeVersion);
