@@ -1,8 +1,8 @@
 {
-  "scripts": {
-    "demo": "n use 8.2.1 hello.js"
-  },
-  "devDependencies": {
-    "n": "4.1.0"
-  }
+    "scripts": {
+        "start": "n use 8.2.1 hello.js"
+    },
+    "devDependencies": {
+        "n": "4.1.0"
+    }
 }
